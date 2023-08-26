@@ -1,6 +1,5 @@
 from english_words import get_english_words_set
 import random
-import sys
 from termcolor import colored
 
 web2lowerset = get_english_words_set(['web2'], lower=True)
